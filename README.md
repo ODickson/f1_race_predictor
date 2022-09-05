@@ -1,7 +1,7 @@
 # f1_race_predictor
 Predict the race result for an f1 race using a variety of datapoints
 
-## Data
+## Data (from 2003)
 - FIA results and statistics:
   - Car
   - Engine
